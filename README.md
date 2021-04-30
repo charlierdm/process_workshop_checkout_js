@@ -4,7 +4,7 @@
 
 # process_workshop_checkout
 
-This is my solution for the checkout process workshop at Makers Academy.
+This is my solution for the checkout process workshop at Makers Academy. Written in JavaScript and test driven using Jasmine, all tests are passing.
 
 ```
 
