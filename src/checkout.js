@@ -32,5 +32,5 @@ const checkout = (shoppingList) => {
     if(list[i] === 'C'){ total += 20; }
     if(list[i] === 'D'){ total += 15; }
   }
-  return total
+  return total;
 }
